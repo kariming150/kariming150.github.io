@@ -6,7 +6,7 @@
     "dev": "vite dev",
     "build": "vite build",
     "deploy": "vite build && touch build/.nojekyll && gh-pages -d build -t true",
-    "deploy-actions": "touch build/.nojekyll && gh-pages -d build -t true -r https://bhoov:${GITHUB_TOKEN}@github.com/bhoov/khoov-github -u 'Ben Hoover <benhoover34@gmail.com>'",
+    "deploy-actions": "touch build/.nojekyll && gh-pages -d build -t true -r https://kariming150:${GITHUB_TOKEN}@github.com/kariming150/kariming150.github.io -u 'Karissa Hoover <karissa.hoover@live.com>'",
     "preview": "vite preview",
     "gh-pages-help": "gh-pages --help"
   },
