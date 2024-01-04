@@ -1,0 +1,46 @@
+{
+  "name": "khoov-github-io",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "deploy": "vite build && touch build/.nojekyll && gh-pages -d build -t true",
+    "deploy-actions": "touch build/.nojekyll && gh-pages -d build -t true -r https://bhoov:${GITHUB_TOKEN}@github.com/bhoov/khoov-github -u 'Ben Hoover <benhoover34@gmail.com>'",
+    "preview": "vite preview",
+    "gh-pages-help": "gh-pages --help"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.28.1",
+    "@sveltejs/adapter-auto": "^2.1.0",
+    "@sveltejs/adapter-static": "^2.0.3",
+    "@sveltejs/kit": "^1.25.2",
+    "@types/d3": "^6.4.0",
+    "@types/lodash": "^4.14.188",
+    "autoprefixer": "^10.4.13",
+    "d3": "^6.7.0",
+    "gh-pages": "^5.0.0",
+    "glob": "^8.0.3",
+    "lodash": "^4.17.21",
+    "mdsvex": "^0.11.0",
+    "postcss": "^8.4.21",
+    "puppeteer": "^21.3.8",
+    "svelte": "^3.54.0",
+    "svelte-check": "^2.9.2",
+    "svelte-preprocess-import-assets": "^1.1.0",
+    "tailwindcss": "^3.3.3",
+    "tslib": "^2.4.1",
+    "typescript": "^5.2.2",
+    "vite": "^4.4.11",
+    "vitest": "^0.25.3"
+  },
+  "type": "module",
+  "dependencies": {
+    "fs-extra": "^11.1.0",
+    "js-yaml": "^4.1.0",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
+    "svelte-inview": "^4.0.1",
+    "yaml-front-matter": "^4.1.1"
+  }
+}
