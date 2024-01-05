@@ -19,13 +19,24 @@ Above, hobbithole rendered in Eevee, a final project submitted for a highschool 
 <img src="./DeskImgRender.png" alt="Desk Scene"/>
 <!-- <img src="./Hobbithole.png" alt="hobbithole- eevee render, 2019"/> -->
 The other final submission for the elective was to compile the objects from all the lessons in the class. Since none of the sub-components are really impressive enough to warrant their own pages, here they are. 
+
+## Candle, with eight mini candles around a main central candle.
 <img src="./CandleIsoRender.png" alt="Candle Render, Iso view"/>
 <img src="./CandleTopRender.png" alt="Candle Render, Flame Details"/>
 
-<!-- ## Apparently I cared way too much about this elective, since I even put the details of a flame pattern onto the candles.  -->
+Apparently I cared way too much about this elective, since I even put the details of a flame pattern onto the candles. 
 
+## Goblet, with horses inspired by the Rohirrim to contribute to the LOTR theme.
 <img src="./gobletRender.png" alt="Goblet Render"/>
+
+## Soda can wrapped with the tree of Gondor- apparently it didn't make it into the final render of the desk scene that I submitted, but I can't remember why. Maybe they insisted on having an actual soda label.
 <img src="./GondorSodaRender.png" alt="Soda Can Render"/>
+
+## Just a standard yellow pencil. Probably the first object they had us make in class. 
 <img src="./pencilRender.png" alt="Pencil Render"/>
 <!-- how do i change the scaling of these things cuz it be ugly rn -->
 
+## Last but not least, Meep the Alpha Sheep
+<img src="./AlphaSheepRender.png" alt="Alpha Sheep Render"/>
+
+Mr. Meep the Sheep was the very first model I made for myself in Blender. The day after they taught us the basic controls in class, I went home and created this... creature. I have no clue why it's pink, I definitely did not make that choice. He's not the prettiest, but since he's the original,I guess he deserves a feature. 
