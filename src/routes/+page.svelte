@@ -36,7 +36,7 @@
         <h2 class="text-xl">Biomedical Engineer &amp; Artist</h2>
         <h2 class="text-xl text-gray-400 mb-2">
             I paint. I draw. I build. I dream.
-            Merging a passion for art and practical engineering to solve problems and stuffs. yay
+            Merging a passion for art and engineering to solve problems and make cool stuff.
         </h2>
         <p class="text-3xl italic text-blue-500 ml-10">A portfolio of my (mostly personal) projects. </p>
 

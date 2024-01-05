@@ -1,18 +1,22 @@
 ---
 title: Toothless Mod
 date: Jan 2024
-teaser: teasers/santa_ornament_teaser.jpeg # Path to image we want as teaser for this post, stored in `/static`
+teaser: teasers/ToothlessFixedSide.jpg # Path to image we want as teaser for this post, stored in `/static`
 description: >- # A short description of the project
- 3D printed santa ornaments for my nephew's first Christmas and friends
+ Modification of thingiverse model of Toothless
 ---
 
-# SantaBear 
+# Toothless Mod 
 
-Modification of thingiverse object by (person i dont remember, link here) for printing on a Creality-Cr-10 printer. aeiwflishpoaijenf
-For this project, I used an app on my Samsung Galaxy tablet called <a href="https://nomadsculpt.com/">Nomad Sculpt</a>. I wanted to make an ornament gift for my brother to celebrate my nephew's first christmas etc etc etc
+Modification of a <a href="https://www.thingiverse.com/thing:3258780"> thingiverse object </a> by for printing on a Creality-Cr-10 printer. My first attempts to print the original design ended... poorly. Toothless became Eyeless. And clawless. and spikeless. 
 
+I threw the original stl file into <a href="https://nomadsculpt.com/">Nomad Sculpt</a> for some processing to make sure my slicer would recognize all the pieces as one cohesive object, then adjusted a few details to my liking, like his tail, pupils, and claws. Before and after photos are shown below. 
 
-You can find the files on my thingiverse account (see <a href="https://www.thingiverse.com/properbowen/designs">this homepage</a> for example).
+<img src="./ToothlessEyelessSide.jpg" alt="Eyeless Toothless, side view"/>
+<img src="./ToothlessFixedSide.jpg" alt="Fixed Toothless, side view"/>
+
+He's still a bit messy- I didn't optimize my settings as well as I could've, but I think it's safe to say that Toothless looks significantly better when he has all his other features. 
+
 <!-- Insert hyperlinks with ahref -->
 
 <!-- 
